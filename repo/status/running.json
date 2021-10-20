@@ -3,7 +3,7 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "75af3f084707b087395ff0b83d76bbcd3a833b61",
+    "commitId": "4614f73ef3e38747e899c19e04e3e58358000c0c",
     "isDirty": true,
     "modifiedFiles": [
       "archive/index-v1.jar",
@@ -14,14 +14,14 @@
       "repo/index-v1.json",
       "repo/index.jar",
       "repo/index.xml",
-      "repo/manager-2021-10-18-1109.apk",
+      "repo/manager-2021-10-15-1509.apk",
       "tmp/apkcache.json"
     ],
     "untrackedFiles": [
-      "archive/manager-2021-10-18-1109.apk",
-      "repo/manager-2021-10-20-0220.apk"
+      "archive/manager-2021-10-15-1509.apk",
+      "repo/manager-2021-10-20-0329.apk"
     ]
   },
-  "startTimestamp": 1634696404000,
+  "startTimestamp": 1634700588000,
   "subcommand": "update"
 }
