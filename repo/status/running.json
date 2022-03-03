@@ -1,9 +1,10 @@
 {
+  "/etc/issue.net": "Ubuntu 20.04.4 LTS",
   "commandLine": [
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "5462e3873d91ebf91ff63fe0fb1ee38db4a3a3f0",
+    "commitId": "88cb947d85e0f7db2a19314d22d7d56f5cdbd7c5",
     "isDirty": true,
     "modifiedFiles": [
       "archive/index-v1.jar",
@@ -14,14 +15,20 @@
       "repo/index-v1.json",
       "repo/index.jar",
       "repo/index.xml",
-      "repo/manager-2021-11-18-1038.apk",
+      "repo/manager-2021-11-28-1530.apk",
       "tmp/apkcache.json"
     ],
     "untrackedFiles": [
-      "archive/manager-2021-11-18-1038.apk",
-      "repo/manager-2021-12-14-2208.apk"
+      "archive/index.css",
+      "archive/index.html",
+      "archive/index.png",
+      "archive/manager-2021-11-28-1530.apk",
+      "repo/index.css",
+      "repo/index.html",
+      "repo/index.png",
+      "repo/manager-2022-03-03-2229.apk"
     ]
   },
-  "startTimestamp": 1639519738000,
+  "startTimestamp": 1646346595000,
   "subcommand": "update"
 }
